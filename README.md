@@ -1,6 +1,6 @@
 ### Stress Level Detector
 
-![home](https://user-images.githubusercontent.com/64016811/199024070-c9c2e300-b1dc-4451-941b-c19e41c8a55c.png)
+![home](https://user-images.githubusercontent.com/64016811/199025266-69551658-cd50-40ec-a5d1-6ec5e26c5037.png)
 
 
 
