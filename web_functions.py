@@ -12,7 +12,7 @@ def load_data():
     """This function returns the preprocessed data"""
 
     # Load the Diabetes dataset into DataFrame.
-    df = pd.read_csv('https://raw.githubusercontent.com/DataMinati/Streamlit-Database/main/SaYoPillow.csv')
+    df = pd.read_csv('Stress.csv')
 
     # Rename the column names in the DataFrame.
     df.rename(columns = {"t": "bt",}, inplace = True)
