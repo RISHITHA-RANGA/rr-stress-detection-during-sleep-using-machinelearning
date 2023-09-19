@@ -28,7 +28,7 @@ Tabs = {
 
 # Create a sidebar
 # Add title to sidear
-st.sidebar.title("Navigation")
+st.sidebar.title("Menu")
 
 # Create radio option to select the page
 page = st.sidebar.radio("Pages", list(Tabs.keys()))
